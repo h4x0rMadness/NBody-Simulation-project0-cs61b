@@ -24,11 +24,11 @@ This is project0 code for [UCBerkeley CS61B project0: NBody Simulation](https://
 ## How to play with it
 1. download this repo:
 ```
-git clone https://github.com/h4x0rMadness/UCBerkeley-cs61b.git
+git clone https://github.com/h4x0rMadness/cs61b-proj0.git
 ```
 2. direct into `proj0` folder in your terminal:
 ```
-cd ./src/week2/proj0
+cd /proj0
 ```
 3. make sure you have `java` installed and your `javac` works correctly, then compile `NBody` class first:
 ```
