@@ -9,13 +9,13 @@ This is project0 code for [UCBerkeley CS61B project0: NBody Simulation](https://
 </p>
 
 <p align="center">
-  <img src="https://github.com/h4x0rMadness/UCBerkeley-cs61b/blob/master/src/week2/proj0/images/solar.gif" width="100%">
+  <img src="https://github.com/h4x0rMadness/cs61b-proj0/blob/master/images/solar.gif" width="100%">
 </p>
 <p align = "center">
   Solar system, part of it.  
 </p>
 <p align="center">
-  <img src="https://github.com/h4x0rMadness/UCBerkeley-cs61b/blob/master/src/week2/proj0/images/3body.gif" width="100%">
+  <img src="https://github.com/h4x0rMadness/cs61b-proj0/blob/master/images/3body.gif" width="100%">
 </p>
 <p align = "center">
   Three body simulation.
